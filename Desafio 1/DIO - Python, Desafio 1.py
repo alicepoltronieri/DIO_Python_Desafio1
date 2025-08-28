@@ -1,6 +1,4 @@
-# depósito - valores positivos, ficar armazenadas para aparecer no extrato
-# saque - 3 saques diários de no max 500,00 cada
-# extrato - apresentar valores depositados, sacados e extrato
+# Resolução do desafio "Criando um Sistema Bancário com Python", do Bootcamp "Santander 2025 - Back-End com Python".
 
 menu = """
 
@@ -59,6 +57,7 @@ while True:
         break
     else:
         print("Operação inválida. Por favor, selecione novamente a opção desejada")
+
 
 
 
